@@ -1,0 +1,8 @@
+C:\Users\vanph\source\repos\bai_tap_thi\bin\Debug\bai_tap_thi.exe.config
+C:\Users\vanph\source\repos\bai_tap_thi\bin\Debug\bai_tap_thi.exe
+C:\Users\vanph\source\repos\bai_tap_thi\bin\Debug\bai_tap_thi.pdb
+C:\Users\vanph\source\repos\bai_tap_thi\obj\Debug\bai_tap_thi.csproj.AssemblyReference.cache
+C:\Users\vanph\source\repos\bai_tap_thi\obj\Debug\bai_tap_thi.csproj.SuggestedBindingRedirects.cache
+C:\Users\vanph\source\repos\bai_tap_thi\obj\Debug\bai_tap_thi.csproj.CoreCompileInputs.cache
+C:\Users\vanph\source\repos\bai_tap_thi\obj\Debug\bai_tap_thi.exe
+C:\Users\vanph\source\repos\bai_tap_thi\obj\Debug\bai_tap_thi.pdb

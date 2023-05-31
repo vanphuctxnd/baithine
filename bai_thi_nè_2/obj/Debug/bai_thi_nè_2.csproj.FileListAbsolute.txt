@@ -1,0 +1,8 @@
+C:\Users\vanph\source\repos\bai_thi_nè_2\bin\Debug\bai_thi_nè_2.exe.config
+C:\Users\vanph\source\repos\bai_thi_nè_2\bin\Debug\bai_thi_nè_2.exe
+C:\Users\vanph\source\repos\bai_thi_nè_2\bin\Debug\bai_thi_nè_2.pdb
+C:\Users\vanph\source\repos\bai_thi_nè_2\obj\Debug\bai_thi_nè_2.csproj.AssemblyReference.cache
+C:\Users\vanph\source\repos\bai_thi_nè_2\obj\Debug\bai_thi_nè_2.csproj.SuggestedBindingRedirects.cache
+C:\Users\vanph\source\repos\bai_thi_nè_2\obj\Debug\bai_thi_nè_2.csproj.CoreCompileInputs.cache
+C:\Users\vanph\source\repos\bai_thi_nè_2\obj\Debug\bai_thi_nè_2.exe
+C:\Users\vanph\source\repos\bai_thi_nè_2\obj\Debug\bai_thi_nè_2.pdb
